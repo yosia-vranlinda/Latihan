@@ -1,0 +1,31 @@
+h1 {
+	color: pink;
+}
+	body {
+		background-color: blue;
+}
+	p {
+		margin-left: 40px;
+		padding-top: 20px;
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-bottom: 20px;
+		clear: left;
+		overflow: scroll;
+
+}
+.bebas {
+	color: black;
+}
+#lepas {
+
+}
+div {
+	height: 200px;
+	width: 300px;
+	background-color: white;
+	margin-left: 20px;
+	border-style: solid;
+	float: left;
+
+}
